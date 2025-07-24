@@ -1,0 +1,27 @@
+// scss/custom.scss
+
+@import "bootstrap";
+
+// Ejemplo: usando RFS en títulos
+
+h1, h3 {
+  font-family: 'Cinzel', serif;
+  color: #d1d1d1;
+  font-size: rfs(2.5rem);
+}
+
+h2{
+  font-family: 'Cinzel', serif;
+  color: #d1d1d1;
+  font-size: rfs(2.5rem);
+}
+
+.card-title {
+  font-size: rfs(1.3rem);
+}
+
+p {
+  font-size: rfs(1rem);
+}
+
+
