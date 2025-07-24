@@ -34,7 +34,6 @@ Este proyecto es de carácter educativo. No se persigue ningún fin comercial. T
 ## 👨‍💻 Autor
 
 **Jefferson** — Desarrollador web creativo, apasionado por la fantasía, el diseño y la estructura lógica.  
-Contacto y más proyectos: [enlace a portafolio o redes]
 
 ---
 
